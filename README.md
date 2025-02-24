@@ -134,3 +134,5 @@
 - [Microsoft comment about usage of d.ts (2023)](https://github.com/microsoft/TypeScript/issues/52593#issuecomment-1419505081)
 - [Matt Pocock: Master ASSERTION FUNCTIONS in TypeScript - Advanced TypeScript (2022)](https://www.youtube.com/watch?v=8lM609lci7E)
 - [Consistent Type Imports and Exports: Why and How (2023)](https://typescript-eslint.io/blog/consistent-type-imports-and-exports-why-and-how/)
+- [Matt Pocock: Where To Put Your Types in Application Code (2023)](https://www.totaltypescript.com/where-to-put-your-types-in-application-code)
+- [Евгений Паромов: Куда положить типы? Простые советы | При чём здесь DDD (2023)](https://www.youtube.com/watch?v=LRIAouQDlMM)
